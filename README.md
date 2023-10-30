@@ -1,2 +1,0 @@
-# ash
-Personal_Portfolio
