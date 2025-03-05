@@ -1357,6 +1357,9 @@ img {
 /* ===== Responsive Styles ===== */
 @media screen and (max-width: 400px) {
 
+  .hero-image img {
+    margin-top: 50px;
+  }
 
 }
 
@@ -1660,4 +1663,3 @@ img {
     grid-template-columns: 1fr;
   }
 }
-
