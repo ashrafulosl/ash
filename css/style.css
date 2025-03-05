@@ -273,7 +273,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 50px;
+  width: 90px;
   height: 50px;
   border-radius: 12px;
   background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
