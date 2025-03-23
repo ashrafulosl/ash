@@ -1,3 +1,5 @@
+/* css/style.css */
+
 /* ===== Base Styles ===== */
 :root {
   --primary-color: #1e3a8a; /* Deep Navy Blue */
@@ -1358,7 +1360,7 @@ img {
 @media screen and (max-width: 400px) {
 
   .hero-image img {
-    margin-top: 50px;
+    margin-top: 300px;
   }
 
 }
